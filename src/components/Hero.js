@@ -3,7 +3,6 @@ import React from "react";
 //images
 import profile from "../assets/images/profile.svg";
 import addPlus from "../assets/images/add-group.svg";
-import cursor from "../assets/images/cursor.svg";
 import BgAgros from "../assets/images/bg-argos.png";
 import imgPOAktif from "../assets/images/po-aktif.svg";
 import imgPOSisa from "../assets/images/po-sisa.svg";

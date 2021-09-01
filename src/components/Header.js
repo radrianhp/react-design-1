@@ -14,22 +14,22 @@ export default function Header() {
           <div className="collapse navbar-collapse">
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
-                <a href="#">
+                <a href="/#">
                   <BsGrid />
                 </a>
               </li>
               <li className="nav-item">
-                <a href="">
+                <a href="/#">
                   <BsChatSquareDots />
                 </a>
               </li>
               <li className="nav-item">
-                <a href="">
+                <a href="/#">
                   <BsBell />
                 </a>
               </li>
               <li className="nav-item">
-                <a href="">
+                <a href="/#">
                   <BsArchive />
                 </a>
               </li>
